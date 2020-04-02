@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fca62566-2f03-4525-be54-8ac558e45428" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="redis" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.1\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Zy6u6iiLTJdLN8WwwxDNRyvILl" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideawork\zk-study-config\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zk-study-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.zk.distributeConfig.DemoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fca62566-2f03-4525-be54-8ac558e45428" name="Default Changelist" comment="" />
+      <created>1585799205017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585799205017</updated>
+      <workItem from="1585799206598" duration="915000" />
+      <workItem from="1585804730532" duration="2489000" />
+      <workItem from="1585807281002" duration="5861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585807185934">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585807185934" />
+    <state width="1875" height="353" key="GridCell.Tab.0.bottom" timestamp="1585813210041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210041" />
+    <state width="1875" height="353" key="GridCell.Tab.0.center" timestamp="1585813210041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210041" />
+    <state width="1875" height="353" key="GridCell.Tab.0.left" timestamp="1585813210040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210040" />
+    <state width="1875" height="353" key="GridCell.Tab.0.right" timestamp="1585813210041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210041" />
+    <state width="1875" height="353" key="GridCell.Tab.1.bottom" timestamp="1585813210133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210133" />
+    <state width="1875" height="353" key="GridCell.Tab.1.center" timestamp="1585813210133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210133" />
+    <state width="1875" height="353" key="GridCell.Tab.1.left" timestamp="1585813210133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210133" />
+    <state width="1875" height="353" key="GridCell.Tab.1.right" timestamp="1585813210133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210133" />
+    <state width="1875" height="353" key="GridCell.Tab.2.bottom" timestamp="1585813210042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210042" />
+    <state width="1875" height="353" key="GridCell.Tab.2.center" timestamp="1585813210042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210042" />
+    <state width="1875" height="353" key="GridCell.Tab.2.left" timestamp="1585813210042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210042" />
+    <state width="1875" height="353" key="GridCell.Tab.2.right" timestamp="1585813210042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="353" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585813210042" />
+    <state x="440" y="114" key="SettingsEditor" timestamp="1585805936415">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585805936415" />
+  </component>
+</project>
